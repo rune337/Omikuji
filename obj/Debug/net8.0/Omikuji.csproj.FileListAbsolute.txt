@@ -1,0 +1,15 @@
+D:\C#\Omikuji\Omikuji\bin\Debug\net8.0\Omikuji.exe
+D:\C#\Omikuji\Omikuji\bin\Debug\net8.0\Omikuji.deps.json
+D:\C#\Omikuji\Omikuji\bin\Debug\net8.0\Omikuji.runtimeconfig.json
+D:\C#\Omikuji\Omikuji\bin\Debug\net8.0\Omikuji.dll
+D:\C#\Omikuji\Omikuji\bin\Debug\net8.0\Omikuji.pdb
+D:\C#\Omikuji\Omikuji\obj\Debug\net8.0\Omikuji.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Omikuji\Omikuji\obj\Debug\net8.0\Omikuji.AssemblyInfoInputs.cache
+D:\C#\Omikuji\Omikuji\obj\Debug\net8.0\Omikuji.AssemblyInfo.cs
+D:\C#\Omikuji\Omikuji\obj\Debug\net8.0\Omikuji.csproj.CoreCompileInputs.cache
+D:\C#\Omikuji\Omikuji\obj\Debug\net8.0\Omikuji.sourcelink.json
+D:\C#\Omikuji\Omikuji\obj\Debug\net8.0\Omikuji.dll
+D:\C#\Omikuji\Omikuji\obj\Debug\net8.0\refint\Omikuji.dll
+D:\C#\Omikuji\Omikuji\obj\Debug\net8.0\Omikuji.pdb
+D:\C#\Omikuji\Omikuji\obj\Debug\net8.0\Omikuji.genruntimeconfig.cache
+D:\C#\Omikuji\Omikuji\obj\Debug\net8.0\ref\Omikuji.dll
