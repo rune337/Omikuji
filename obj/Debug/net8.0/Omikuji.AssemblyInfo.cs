@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Omikuji")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f3fadb761ea5b85643f6bfafb5253d2a88dc3f6f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7ef93df6af2153e3769f3d5918870b60b1f99be7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Omikuji")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Omikuji")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
